@@ -7,7 +7,7 @@ let input2 = 11;
 let input3 = 4;
 
 
-function addNumber(input1, input2, input3 ) {
+function addNumber() {
     arry.push(input1, input2, input3);
     return arry;
 
